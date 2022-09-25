@@ -1,0 +1,2 @@
+string dir
+string deg
